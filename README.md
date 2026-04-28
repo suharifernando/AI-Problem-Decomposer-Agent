@@ -1,4 +1,4 @@
-# 🤖 AI Problem Decomposer + Self-Improving Agent
+# 🤖 AI Problem Decomposer + Self Improving Agent
 
 A distinction level AI agent that demonstrates **reasoning**, **planning**, **reflection**, and **goal-based improvement** using the Groq API.
 
